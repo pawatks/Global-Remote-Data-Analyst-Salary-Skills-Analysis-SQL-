@@ -98,7 +98,11 @@ Highlights skills that offer both strong job demand and high average salaries.
 │   └── queries.sql
 │
 ├── export_query/
-│   └── *.csv
+│   ├── q1.png
+│   ├── q2.png
+│   ├── q3.png
+│   ├── q4.png
+│   └── q5.csv
 │
 ├── visual/
 │   ├── q1.png
